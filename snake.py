@@ -2,8 +2,6 @@ import turtle as t
 import time
 import random
 
-score=0
-high_score=0
 delay=0.2
 color_screen="green"
 color_head="black"
